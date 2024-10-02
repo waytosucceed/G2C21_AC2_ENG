@@ -1,0 +1,199 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which of these is a complete sentence?",
+        "options": [
+            "The dog barks.",
+            "Running fast.",
+            "Happy and silly."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "A fragment is a complete thought.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which is a fragment?",
+        "options": [
+            "Cats are soft.",
+            "Fluffy kittens.",
+            "I like pets."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which is a run-on sentence?",
+        "options": [
+            "I like apples.",
+            "Bananas are yellow.",
+            "I eat fruit it is healthy I feel good."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank: A good sentence always has a _____ and a predicate.",
+        "options": [
+            "Object",
+            "Subject"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which sentence matches the picture? <br> <img src='./images/1.png' width='30%'/>",
+        "options": [
+            "The dog is jumping in the air.",
+            "The dog is chasing a wooden stick.",
+            "The dog is chasing a shiny red ball."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Which is a complete sentence?",
+        "options": [
+            "Jumped over the fence.",
+            "The rabbit hopped.",
+            "Very fast and furry."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Which is NOT a run-on sentence?",
+        "options": [
+            "I woke up I ate breakfast I went to school.",
+            "I woke up, ate breakfast, and went to school.",
+            "I woke up then I ate breakfast next I went to school."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Fill in the blank: A _____ is missing important parts of a sentence.",
+        "options": [
+            "Fragment",
+            "Run-on"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Which is a fragment?",
+        "options": [
+            "The big, red ball.",
+            "We play games.",
+            "She sings beautifully."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Choose the correct spelling.<br> <img src='./images/2.png' width='30%'/>",
+        "options": [
+            "Kiten",
+            "Kitchen",
+            "Kitten",
+            "Citten"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which is NOT a complete sentence?",
+        "options": [
+            "The dog barks loudly.",
+            "Cats and dogs.",
+            "Fish swim in water."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Run-on sentences always need to be fixed.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which is a complete sentence?",
+        "options": [
+            "Jumped high.",
+            "The frog.",
+            "The frog jumped."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which is a complete sentence?",
+        "options": [
+            "The happy dog.",
+            "Wagging its tail.",
+            "The dog plays."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Fill in the blank: A _____ is a group of words that makes a complete thought.",
+        "options": [
+            "sentence",
+            "fragment",
+            "run-on"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Which is a fragment?",
+        "options": [
+            "I like cake.",
+            "Yummy chocolate.",
+            "We eat cookies."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which sentence is a run-on?",
+        "options": [
+            "I run fast.",
+            "She jumps high.",
+            "He kicks the ball it rolls far."
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Fill in the blank: Every sentence starts with a _____ letter.",
+        "options": [
+            "Big",
+            "Small"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which is NOT a complete sentence?",
+        "options": [
+            "Birds fly.",
+            "In the sky.",
+            "Fish swim."
+        ],
+        "correct": 1
+    }
+  ]
+  
